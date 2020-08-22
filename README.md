@@ -4,9 +4,10 @@ gTTS wrapper for Easy transition from Talkey library
 # How to do it
 Include this library in same folder as your code.
 
-Download gTTS with pip:
+Download gTTS and PyGame with pip:
 ```
 pip install gtts
+pip install PyGame
 ```
 
 Then, if you have code like this
