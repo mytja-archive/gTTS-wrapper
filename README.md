@@ -1,6 +1,9 @@
 # gTTS-wrapper
 gTTS wrapper for Easy transition from Talkey library
 
+# Note
+As of 28.1.2020, this library is unmaintained, archived and retired. It will not recieve any updates.
+
 # How to do it
 Include this library in same folder as your code.
 
